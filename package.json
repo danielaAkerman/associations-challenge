@@ -1,0 +1,18 @@
+{
+  "name": "associations-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "dependencies": {
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.28.0",
+    "typescript": "^4.9.4",
+    "@types/node": "^18.11.18",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
